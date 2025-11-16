@@ -1,0 +1,30 @@
+Hi Guys, Lets start today's session. Today we are going to continue with Langgraph
+Last week, we discussed LangGraph and executed a couple of sample programs to understand how it works
+
+This week we will wrap the LangGraph, Have anyone tried LangGraph after our session
+
+It is very important to try some examples after our session
+
+Will just brush up last week session
+
+
+----
+
+LangGraph is a framework that helps you build AI workflows where multiple steps or agents work together in a sequence or a graph-like flow.
+
+In other way:
+
+A system that helps you design and run complex AI processes in an organized way — like building a flowchart for your AI logic.
+
+
+So far we know 
+Simple LangGraph with routing
+Parallel flow
+Conditional flow
+
+----
+
+
+
+What is the weather in Chennai tomorrow?
+Find me flights to Bangalore
