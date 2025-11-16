@@ -26,5 +26,3 @@ Conditional flow
 
 
 
-What is the weather in Chennai tomorrow?
-Find me flights to Bangalore
